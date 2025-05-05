@@ -3,6 +3,7 @@
 A billing application is used to create and manage orders for a store. It helps in inventory and customer management. This application deals with four main modules namely Users, Customers, Products, and Bills. Users can view information about each module and also download bills if required.
 
 ## Features
+
 * Create Bills, Manage Bills, View Bills, and Print Bill in PDF format.
 * Create Customer, Update Customer, Delete Customer, and View Customer Details including all bills made under the respective customer.
 * Add Product, Update Customer, View Products, and Delete Product.

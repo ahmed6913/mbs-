@@ -1,4 +1,5 @@
 # Point of Sale Application - Billing App
+
 ## About
 A billing application is used to create and manage orders for a store. It helps in inventory and customer management. This application deals with four main modules namely Users, Customers, Products, and Bills. Users can view information about each module and also download bills if required.
 
@@ -59,4 +60,4 @@ Here user can download the bill in PDF format.
 ![Bill in PDF](https://user-images.githubusercontent.com/70807417/120588734-51e29480-c455-11eb-898d-baf49a3c2d75.png)
 
 ## Libraries and Utilities
-React, Redux, react-router-dom, react-redux, redux-thunk, react-google-charts, moment, axios, material UI, validator
+React, Redux, react-router-dom, react-redux, redux-thunk, react-google-charts, moment, axios, material UI, validator.

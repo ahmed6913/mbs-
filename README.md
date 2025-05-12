@@ -12,7 +12,7 @@ A billing application is used to create and manage orders for a store. It helps 
 
 ## Screenshots
 
-### Home Page
+### Home Page 
 ![Home Page](https://user-images.githubusercontent.com/70807417/120587988-fbc12180-c453-11eb-9098-a1c69f540d2d.png)
 
 ### Login and Register Page

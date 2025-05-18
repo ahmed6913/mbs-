@@ -1,4 +1,4 @@
-# Point of Sale Application - Billing App
+# Point of Sale Application - Billing App.
 
 ## About
 

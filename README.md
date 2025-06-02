@@ -61,4 +61,4 @@ Here user can download the bill in PDF format.
 ![Bill in PDF](https://user-images.githubusercontent.com/70807417/120588734-51e29480-c455-11eb-898d-baf49a3c2d75.png)
 
 ## Libraries and Utilities
-React, Redux, react-router-dom, react-redux, redux-thunk, react-google-charts, moment, axios, material UI, validator.
+React, Redux, react-router-dom, react-redux, redux-thunk, react-google-charts, moment, axios, material UI, validator...

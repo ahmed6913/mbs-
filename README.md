@@ -1,5 +1,8 @@
 # Point of Sale Application - Billing App.
 
+cmd when starting dev server - set NODE_OPTIONS=--openssl-legacy-provider && npm start
+
+
 ## About
 
 A billing application is used to create and manage orders for a store. It helps in inventory and customer management. This application deals with four main modules namely Users, Customers, Products, and Bills. Users can view information about each module and also download bills if required.

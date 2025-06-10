@@ -1,6 +1,9 @@
 # Point of Sale Application - Billing App.
 
 cmd when starting dev server - set NODE_OPTIONS=--openssl-legacy-provider && npm start
+set NODE_OPTIONS=--openssl-legacy-provider
+npm start
+
 
 
 ## About

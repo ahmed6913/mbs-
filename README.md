@@ -4,7 +4,7 @@ cmd when starting dev server - set NODE_OPTIONS=--openssl-legacy-provider && npm
 set NODE_OPTIONS=--openssl-legacy-provider
 npm start
 
-Sketch - https://excalidraw.com/#json=iIigrWqgg4ztOw2CxByIV,HCS3XcdencnuwzEGgQbTcQ
+UI Sketch - https://excalidraw.com/#json=iIigrWqgg4ztOw2CxByIV,HCS3XcdencnuwzEGgQbTcQ
 
 
 ## About

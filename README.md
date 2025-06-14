@@ -3,7 +3,7 @@
 cmd command when starting dev server - set NODE_OPTIONS=--openssl-legacy-provider && npm start
 
 
-UI Sketch - https://excalidraw.com/#json=nnQnsCUHNHVhgr1RGNqOp,3RuM6owEhpAMGJpAf2Nukw
+UI Sketch - https://excalidraw.com/#json=LCmbRXoOo2kJy6rhz6cJK,sg88yeUYHPeISAcMCbR_qg
 
 
 ## About
